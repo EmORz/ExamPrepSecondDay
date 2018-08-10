@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\ExamPrepSecond\SoftUni Babies_Skeletons\CSharp\SoftUniBabies\bin\Debug\netcoreapp2.0\SoftUniBabies.deps.json
+C:\Users\User\Desktop\ExamPrepSecond\SoftUni Babies_Skeletons\CSharp\SoftUniBabies\bin\Debug\netcoreapp2.0\SoftUniBabies.runtimeconfig.json
+C:\Users\User\Desktop\ExamPrepSecond\SoftUni Babies_Skeletons\CSharp\SoftUniBabies\bin\Debug\netcoreapp2.0\SoftUniBabies.runtimeconfig.dev.json
+C:\Users\User\Desktop\ExamPrepSecond\SoftUni Babies_Skeletons\CSharp\SoftUniBabies\bin\Debug\netcoreapp2.0\SoftUniBabies.dll
+C:\Users\User\Desktop\ExamPrepSecond\SoftUni Babies_Skeletons\CSharp\SoftUniBabies\bin\Debug\netcoreapp2.0\SoftUniBabies.pdb
+C:\Users\User\Desktop\ExamPrepSecond\SoftUni Babies_Skeletons\CSharp\SoftUniBabies\obj\Debug\netcoreapp2.0\SoftUniBabies.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ExamPrepSecond\SoftUni Babies_Skeletons\CSharp\SoftUniBabies\obj\Debug\netcoreapp2.0\SoftUniBabies.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ExamPrepSecond\SoftUni Babies_Skeletons\CSharp\SoftUniBabies\obj\Debug\netcoreapp2.0\SoftUniBabies.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ExamPrepSecond\SoftUni Babies_Skeletons\CSharp\SoftUniBabies\obj\Debug\netcoreapp2.0\SoftUniBabies.AssemblyInfo.cs
+C:\Users\User\Desktop\ExamPrepSecond\SoftUni Babies_Skeletons\CSharp\SoftUniBabies\obj\Debug\netcoreapp2.0\SoftUniBabies.dll
+C:\Users\User\Desktop\ExamPrepSecond\SoftUni Babies_Skeletons\CSharp\SoftUniBabies\obj\Debug\netcoreapp2.0\SoftUniBabies.pdb
